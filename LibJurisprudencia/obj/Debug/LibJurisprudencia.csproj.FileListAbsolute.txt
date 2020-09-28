@@ -1,0 +1,7 @@
+C:\Jurisprudencia\InputBaseJurisprudencia\LibJurisprudencia\bin\Debug\LibJurisprudencia.dll
+C:\Jurisprudencia\InputBaseJurisprudencia\LibJurisprudencia\bin\Debug\LibJurisprudencia.pdb
+C:\Jurisprudencia\InputBaseJurisprudencia\LibJurisprudencia\bin\Debug\itextsharp.dll
+C:\Jurisprudencia\InputBaseJurisprudencia\LibJurisprudencia\bin\Debug\itextsharp.xml
+C:\Jurisprudencia\InputBaseJurisprudencia\LibJurisprudencia\obj\Debug\LibJurisprudencia.dll
+C:\Jurisprudencia\InputBaseJurisprudencia\LibJurisprudencia\obj\Debug\LibJurisprudencia.pdb
+C:\Jurisprudencia\InputBaseJurisprudencia\LibJurisprudencia\obj\Debug\LibJurisprudencia.csprojResolveAssemblyReference.cache

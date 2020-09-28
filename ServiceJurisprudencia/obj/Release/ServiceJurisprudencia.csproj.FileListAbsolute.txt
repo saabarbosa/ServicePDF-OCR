@@ -1,0 +1,13 @@
+C:\Jurisprudencia\InputBaseJurisprudencia\ServiceJurisprudencia\bin\Release\ServiceJurisprudencia.exe.config
+C:\Jurisprudencia\InputBaseJurisprudencia\ServiceJurisprudencia\bin\Release\ServiceJurisprudencia.exe
+C:\Jurisprudencia\InputBaseJurisprudencia\ServiceJurisprudencia\bin\Release\ServiceJurisprudencia.pdb
+C:\Jurisprudencia\InputBaseJurisprudencia\ServiceJurisprudencia\bin\Release\LibJurisprudencia.dll
+C:\Jurisprudencia\InputBaseJurisprudencia\ServiceJurisprudencia\bin\Release\itextsharp.dll
+C:\Jurisprudencia\InputBaseJurisprudencia\ServiceJurisprudencia\bin\Release\LibJurisprudencia.pdb
+C:\Jurisprudencia\InputBaseJurisprudencia\ServiceJurisprudencia\bin\Release\itextsharp.xml
+C:\Jurisprudencia\InputBaseJurisprudencia\ServiceJurisprudencia\obj\Release\ServiceJurisprudencia.csprojResolveAssemblyReference.cache
+C:\Jurisprudencia\InputBaseJurisprudencia\ServiceJurisprudencia\obj\Release\ServiceJurisprudencia.i9Service.resources
+C:\Jurisprudencia\InputBaseJurisprudencia\ServiceJurisprudencia\obj\Release\ServiceJurisprudencia.ProjectInstaller.resources
+C:\Jurisprudencia\InputBaseJurisprudencia\ServiceJurisprudencia\obj\Release\ServiceJurisprudencia.csproj.GenerateResource.Cache
+C:\Jurisprudencia\InputBaseJurisprudencia\ServiceJurisprudencia\obj\Release\ServiceJurisprudencia.exe
+C:\Jurisprudencia\InputBaseJurisprudencia\ServiceJurisprudencia\obj\Release\ServiceJurisprudencia.pdb
